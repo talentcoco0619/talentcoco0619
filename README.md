@@ -1,5 +1,11 @@
 # 💫 About Me:
-  👨‍💻 I'm currently working on advanced AI-driven projects.<br>  🤝 I'm looking to collaborate on open source projects and innovative tech ideas.<br>  🙋‍♂️ I'm looking for help with cutting-edge AI research.<br>  🌱 I'm currently learning more about quantum computing and its applications in AI.<br>  🔍 Ask me about anything related to full stack development and artificial intelligence.<br>  🎉 Fun fact: I once developed an AI model that learned to play and win at chess in under 24 hours!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    👨‍💻 I'm currently working on advanced AI-driven projects.<br><br>
+    🤝 I'm looking to collaborate on open source projects and innovative tech ideas.<br><br>
+    🙋‍♂️ I'm looking for help with cutting-edge AI research.<br><br>
+    🌱 I'm currently learning more about quantum computing and its applications in AI.<br><br>
+    🔍 Ask me about anything related to full stack development and artificial intelligence.<br><br>
+    🎉 Fun fact: I once developed an AI model that learned to play and win at chess in under 24 hours!
 
 
 
