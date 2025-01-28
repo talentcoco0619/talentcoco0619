@@ -9,15 +9,6 @@
 
 
 
-# 💻 Tech Stack:
-
-### Languages:
-### Frontend Technologies:
-### Backend Technologies:
-### Storage:
-### Platforms:
-### Paradigms:
-### Tools:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=talentcoco0619&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
