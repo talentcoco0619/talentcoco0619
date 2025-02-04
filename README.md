@@ -7,6 +7,14 @@
     🔍 Ask me about anything related to full stack development and artificial intelligence.<br><br>
     🎉 Fun fact: I once developed an AI model that learned to play and win at chess in under 24 hours!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=talentcoco0619&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=talentcoco0619&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=talentcoco0619&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 🛠 Tech Stacks
 
 - <h3>Languages:</h3> 
@@ -81,14 +89,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/0A9EDC" /><img width="12" />
     </div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=talentcoco0619&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=talentcoco0619&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=talentcoco0619&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=talentcoco0619&limit=5&theme=radical&combine_all_yearly_contributions=true)
