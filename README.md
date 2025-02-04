@@ -38,10 +38,48 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/nextui/FFFFFF" /><img width="12" />
     </div>
 - <h3>Backend Technologies:</h3>
+    <div align="left">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/express/FFFFFF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs/E0234E" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/flask/FFFFFF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/django/092E20" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/009688" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/graphql/E10098" /><img width="12" />
+    </div>
 - <h3>Storage:</h3>
+    <div align="left">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/4169E1" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb/003545" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/redis/FF4438" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/json/FFFFFF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb/4053D6" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3/569A31" /><img width="12" />
+    </div>
 - <h3>Platforms:</h3>
+    <div align="left">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/DD2C00" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/supabase/3FCF8E" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/326CE5" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean/0080FF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/awslambda/FF9900" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2/FF9900" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonrds/527FFF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonecs/FF9900" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonsqs/FF4F8B" /><img width="12" />
+    </div>
 - <h3>Paradigms:</h3>
-- <h3>Tools:</h3>
+    <div align="left">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/langchain/1C3C3C" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/69D3A7" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine/8A4182" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/jest/C21325" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/0A9EDC" /><img width="12" />
+    </div>
 
 
 # 📊 GitHub Stats:
