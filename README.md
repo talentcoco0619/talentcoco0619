@@ -26,7 +26,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/C/A8B9CC" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C" /><img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
     </div>
 - <h3>Frontend Technologies:</h3>
     <div align="left">
