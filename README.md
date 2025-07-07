@@ -42,7 +42,7 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/storybook/FF4785" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/antdesign/0170FE" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/shadcnui/FFFFFF" /><img width="12" />
-        <img height="32" width="32" src="https://cdn.simpleicons.org/nextui/FFFFFF" /><img width="12" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/heroui/FFFFFF" /><img width="12" />
     </div>
 - <h3>Backend Technologies:</h3>
     <div align="left">
