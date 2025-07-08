@@ -64,7 +64,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/json/FFFFFF" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb/4053D6" /><img width="12" />
-        <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3/569A31" /><img width="12" />
     </div>
 - <h3>Platforms:</h3>
     <div align="left">
