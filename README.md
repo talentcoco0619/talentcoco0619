@@ -75,7 +75,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/awslambda/FF9900" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2/FF9900" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/amazonrds/527FFF" /><img width="12" />
-        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonecs/FF9900" /><img width="12" />
     </div>
 - <h3>Paradigms:</h3>
     <div align="left">
