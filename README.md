@@ -73,7 +73,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/326CE5" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean/0080FF" /><img width="12" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/awslambda/FF9900" /><img width="12" />
-        <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2/FF9900" /><img width="12" />
     </div>
 - <h3>Paradigms:</h3>
     <div align="left">
